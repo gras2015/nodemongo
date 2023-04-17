@@ -1,2 +1,2 @@
 # nodemongo
-It's a an application with Node.js, Express et MongoDB
+It's an application with Node.js, Express et MongoDB
